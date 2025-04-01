@@ -1,4 +1,3 @@
-
 import SimpleLightbox from 'simplelightbox';
 
 
